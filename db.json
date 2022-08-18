@@ -1,0 +1,76 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "name": "Ettore Wedgwood",
+      "age": 53,
+      "gender": "Male",
+      "department": "Sales",
+      "salary": "43359"
+    },
+    {
+      "id": 3,
+      "name": "Johnathan Peiser",
+      "age": 56,
+      "gender": "Male",
+      "department": "Human Resources",
+      "salary": "36337"
+    },
+    {
+      "id": 4,
+      "name": "Yolanthe Plenderleith",
+      "age": 53,
+      "gender": "Female",
+      "department": "Services",
+      "salary": "17139"
+    },
+    {
+      "id": 5,
+      "name": "Roth Scamadin",
+      "age": 22,
+      "gender": "Male",
+      "department": "Human Resources",
+      "salary": "51003"
+    },
+    {
+      "id": 6,
+      "name": "Charlotte Dudbridge",
+      "age": 37,
+      "gender": "Female",
+      "department": "Engineering",
+      "salary": "28945"
+    },
+    {
+      "id": 7,
+      "name": "Dilly Skeels",
+      "age": 44,
+      "gender": "Genderfluid",
+      "department": "Marketing",
+      "salary": "20324"
+    },
+    {
+      "id": 8,
+      "name": "Sybila Marklin",
+      "age": 25,
+      "gender": "Female",
+      "department": "Research and Development",
+      "salary": "32851"
+    },
+    {
+      "id": 9,
+      "name": "Roby Volant",
+      "age": 22,
+      "gender": "Female",
+      "department": "Sales",
+      "salary": "17576"
+    },
+    {
+      "id": 10,
+      "name": "Florian Harrower",
+      "age": 30,
+      "gender": "Male",
+      "department": "Product Management",
+      "salary": "15970"
+    }
+  ]
+}
